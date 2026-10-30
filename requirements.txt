@@ -1,0 +1,5 @@
+streamlit>=1.36.0
+numpy>=1.26.0
+Pillow>=10.4.0
+onnxruntime>=1.18.0
+huggingface-hub>=0.24.0
